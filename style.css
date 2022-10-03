@@ -164,11 +164,11 @@ h3{
 
 /* Mehemmed */
 .red1{
-    position: absolute;
+
 width: 667px;
 height: 93px;
-left: 121px;
-top: 2000px;
+margin-left: 100px;
+
 
 font-family: 'Roboto Slab';
 font-style: normal;
@@ -181,11 +181,11 @@ color: #000000;
 
 }
 .head1{
-    position: absolute;
+
 width: 150px;
 height: 39px;
-left: 122px;
-top: 2182px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -198,11 +198,11 @@ line-height: 130%;
 color: #1E4681;
 }
 .head2{
-    position: absolute;
+
 width: 214px;
 height: 39px;
-left: 467px;
-top: 2182px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -217,11 +217,10 @@ color: #1E4681;
 }
 .head3{
 
-    position: absolute;
 width: 150px;
 height: 39px;
-left: 851px;
-top: 2182px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -235,11 +234,11 @@ color: #1E4681;
 
 }
 .blok1{
-    position: absolute;
+   
 width: 223px;
 height: 39px;
-left: 122px;
-top: 2222px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -253,11 +252,11 @@ color: #000000;
 
 }
 .blok2{
-    position: absolute;
+
 width: 271px;
 height: 109px;
-left: 467px;
-top: 2222px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -270,11 +269,11 @@ line-height: 130%;
 color: #000000;
 }
 .blok3{
-    position: absolute;
+
 width: 245px;
 height: 39px;
-left: 851px;
-top: 2222px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -287,11 +286,11 @@ line-height: 130%;
 color: #000000;
 }
 .bas1{
-    position: absolute;
+
 width: 667px;
 height: 93px;
-left: 121px;
-top: 2510px;
+margin-left: 100px;
+
 
 font-family: 'Roboto Slab';
 font-style: normal;
@@ -304,11 +303,11 @@ line-height: 101.38%;
 color: #000000;
 }
 .bas2{
-    position: absolute;
+
 width: 662px;
 height: 374px;
-left: 138px;
-top: 2624px;
+margin-left: 100px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -320,4 +319,7 @@ line-height: 150%;
 
 color: #000000;
 
+}
+.flex{
+    display: flex;
 }
