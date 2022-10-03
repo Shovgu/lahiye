@@ -1,0 +1,38 @@
+.logo{
+    display: flex;
+    margin-top: 97px;
+}
+.logo p{
+    font-size: 20px;
+    width: 130px;
+    height: 32px;
+    font-weight: 400;
+}
+.globe,.watch,.calendar{
+    display: flex;
+}
+.image-1{
+    width: 22px;
+    height: 21px;
+    margin-top: 11%;
+    margin-right: 5%;
+}
+.image-2{
+    width: 22px;
+    height: 22px;
+    margin-top: 11%;
+    margin-right: 5%;
+}
+.image-3{
+    width: 20px;
+    height: 22px;
+    margin-top: 11%;
+    margin-right: 5%;
+}
+h1{
+    width: 628px;
+    height: 190px;
+    font-weight: 700;
+    font-size: 80px;
+    margin-top: 29px;
+}
