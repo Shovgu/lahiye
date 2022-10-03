@@ -1,4 +1,4 @@
-.header{
+.section-1{
     margin-left: 120px;
     margin-top: 20px;
 }
@@ -45,27 +45,124 @@ h1{
     width: 304px;
     height: 356px;
     margin-left: 140px;
-
 }
 .img-2{
     width: 274px;
     height: 41px;
+    margin-left: -270px;
+    margin-top: 335px;
+}
+.img-3{
     z-index: -1;
-    margin-left: 180px;
-    position: absolute;
-    left: 47%;
-    top: 75%;
 }
 .text p{
-    width: 414px;
+    width: 370px;
     height: 62px;
+    font-size: 20px;
 }
 .second-part{
     display: flex;
 }
-img{
+.third-part{
+    background-color: #1E4681;
+    color: white;
+    width: 483.63px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.third-part p{
+    width: 400px;
+    height: 113px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 130%;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+.name{
+    margin-top: -30px;
+    margin-right: 19px;
+    margin-left: 220px;
+}
+
+.section-2{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.main h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+}
+.main p{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    width: 600px;
+}
+.image{
+    margin-top: 5%;
     position: relative;
 }
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.second{
+    display: flex;
+    font-size: 15px;
+}
+h3{
+    font-size: 24px;
+}
+.image-6{
+    margin-right: 200px;
+    width: 232px;
+    height: 203px;
+}
+.image-8{
+    width: 189px;
+    height: 32px;
+    margin-left: -400px;
+    margin-top: 190px;
+    z-index: -1;
+}
+.image-5{
+    width: 366px;
+    height: 59px;
+    z-index: -1;
+    margin-left: -450px;
+    margin-top: 480px;
+}
+.image-4{
+    width: 314px;
+    height: 315px;
+    margin-left: 50px;
+    margin-top: 130px;
+}
+.one,.two,.three{
+    width: 150px;
+    height: 39px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.one{
+    margin-right: 95px;
+    margin-left: 132px;
+}
+.two{
+    margin-right: 95px;
+}
+h3{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+/* Mehemmed */
 .red1{
     position: absolute;
 width: 667px;
