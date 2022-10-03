@@ -1,6 +1,11 @@
 .section-1{
     margin-left: 120px;
     margin-top: 20px;
+    margin-right: 240px;
+}
+.ilk{
+    width: 112px;
+    height: 66px;
 }
 .logo{
     display: flex;
@@ -85,6 +90,51 @@ h1{
     margin-top: -30px;
     margin-right: 19px;
     margin-left: 220px;
+}
+@media screen and (min-width:992px) and (max-width:1279px){
+    .ilk{
+        width: 64.87px;
+        height: 38.23px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .logo p{
+        width: 75.29px;
+        height: 18.53px;
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .image-1{
+        width: 12.74px;
+        height: 12.16px;
+    }
+    .image-2{
+        width: 12.74px;
+        height: 12.74px;
+    }
+    .image-3{
+        width: 11.58px;
+        height: 12.74px;
+    }
+    h1{
+        width: 363.72px;
+        height: 110.04px;
+        font-size: 46px;
+        margin-top: 8px;
+    }
+    .img-1{
+        width: 176.07px;
+        height: 206.18px;
+        margin-left: 80px;
+    }
+    .img-2{
+        width: 158.69px;
+        height: 23.75px;
+        margin-top: 195px;
+        margin-left: -160px;
+    }
+    
 }
 
 .section-2{
