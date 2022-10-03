@@ -1,3 +1,7 @@
+.header{
+    margin-left: 120px;
+    margin-top: 20px;
+}
 .logo{
     display: flex;
     margin-top: 97px;
@@ -35,6 +39,32 @@ h1{
     font-weight: 700;
     font-size: 80px;
     margin-top: 29px;
+    margin-bottom: -10px;
+}
+.img-1{
+    width: 304px;
+    height: 356px;
+    margin-left: 140px;
+
+}
+.img-2{
+    width: 274px;
+    height: 41px;
+    z-index: -1;
+    margin-left: 180px;
+    position: absolute;
+    left: 47%;
+    top: 75%;
+}
+.text p{
+    width: 414px;
+    height: 62px;
+}
+.second-part{
+    display: flex;
+}
+img{
+    position: relative;
 }
 .red1{
     position: absolute;
