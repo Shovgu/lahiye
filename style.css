@@ -356,7 +356,7 @@ position: relative;
 
 .section-1 {
     margin-left: 120px;
-    margin-top: 20px;
+    margin-top: 21px;
     margin-right: 240px;
 }
 
@@ -422,7 +422,7 @@ h1 {
 .img-2 {
     width: 274px;
     height: 41px;
-    margin-left: -270px;
+    margin-left: -330px;
     margin-top: 335px;
 }
 
@@ -438,6 +438,7 @@ h1 {
 
 .second-part {
     display: flex;
+    justify-content: space-between;
 }
 
 .third-part {
@@ -446,7 +447,7 @@ h1 {
     width: 483.63px;
     height: 200px;
     border-radius: 5px;
-    margin-left: 300px;
+    margin-left: 350px;
     margin-top: 60px;
 }
 
@@ -467,6 +468,11 @@ h1 {
 }
 
 @media screen and (min-width:992px) and (max-width:1279px) {
+        .section-1{
+        margin-top: 22px;
+        width:80%;
+        margin:auto;
+    }
     .ilk {
         width: 64.87px;
         height: 38.23px;
@@ -502,10 +508,16 @@ h1 {
         width: 363.72px;
         height: 110.04px;
         font-size: 46px;
+        font-weight: 700;
         margin-top: 8px;
     }
-
+    .text p{
+        width: 264px;
+        height: 36px;
+        font-size: 12px;
+    }
     .img-1 {
+
         width: 176.07px;
         height: 206.18px;
         margin-left: 80px;
@@ -515,9 +527,24 @@ h1 {
         width: 158.69px;
         height: 23.75px;
         margin-top: 195px;
-        margin-left: -160px;
+        margin-left: -265px;
     }
-
+    .third-part{
+        width: 280.11px;
+        height: 115.83px;  
+        margin-left: 250px;
+    }
+    .third-part p{
+        width: 249.38px;
+        height: 65.45px;
+        font-size: 14px;
+        padding-left: 15px;
+        padding-top: 12px;
+    }
+    .name{
+        margin-left: 130px;
+        margin-top: -20px;
+    }
 }
 
 .section-2 {
@@ -530,10 +557,10 @@ h1 {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 55px;
+    margin-top: 170px;
+    margin-bottom: -90px;
 }
-
 .main p {
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 24px;
     width: 600px;
@@ -541,7 +568,6 @@ h1 {
 
 .image {
     margin-top: 5%;
-    position: relative;
 }
 
 .first {
@@ -573,19 +599,21 @@ h3 {
     z-index: -1;
 }
 
+.image-7{
+    z-index: -1;
+}
 .image-5 {
     width: 366px;
     height: 59px;
-    z-index: -1;
-    margin-left: -450px;
-    margin-top: 480px;
+    margin-left: -570px;
+    margin-top: 550px;
 }
 
 .image-4 {
     width: 314px;
     height: 315px;
     margin-left: 50px;
-    margin-top: 130px;
+    margin-top: 190px;
 }
 
 .one,
@@ -600,17 +628,74 @@ h3 {
 .one {
     margin-right: 95px;
     margin-left: 132px;
+    margin-top: 40px;
 }
 
 .two {
     margin-right: 95px;
+    margin-top: 40px;
+}
+.three{
+    margin-top: 40px;
 }
 
 h3 {
     font-weight: 700;
     font-size: 25px;
 }
-
+@media screen and (min-width:992px) and (max-width:1279px){
+    .main h1{
+        width: 211.4px;
+        font-size: 32px;
+        margin-top: 100px;
+    }
+    .main p{
+        width: 375px;
+        font-size: 14px;
+        margin-top: 40px;
+    }
+    .image-4{
+        width: 181.86px;
+        height: 182.44px; 
+        margin-top: 110px;
+    }
+    .image-5{
+        width: 211.98px;
+        height: 34.17px;
+        margin-top: 325px;
+        margin-left: -355px;
+    }
+    .photo-1{
+        width: 134.37px;
+        height: 117.57px;
+    }
+    .photo-2{
+        width: 109.46px;
+        height: 18.53px;
+    }
+    .image-8{
+        margin-top: 110px;
+        margin-right: -50px;
+        margin-left: -415px;
+    }
+    h3{
+        font-weight: 700;
+        font-size: 15px;
+    }
+    .one,.two,.three{
+        width: 86.88px;
+        height: 22.59px;
+        font-size: 11px;
+        margin-top: 25px;
+    }
+    .one{
+        margin-left: 77px;
+        margin-right: 55px;
+    }
+    .two{
+        margin-right: 32px;
+    }
+}
 /* Mehemmed */
 .red1 {
 
