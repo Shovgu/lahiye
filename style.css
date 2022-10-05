@@ -500,9 +500,7 @@ color: #000000;
 
 width: 662px;
 height: 374px;
-margin-left: 121px;
-
-
+margin-left: 110px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -1030,8 +1028,6 @@ color: #000000;
     width: 299px;
     height: 174px;
     margin-left: 44px;
-
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -1039,12 +1035,9 @@ color: #000000;
     line-height: 150%;
     /* or 18px */
     
-    
     color: #000000;
 
 }
-
-
 
 
 }
