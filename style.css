@@ -1365,4 +1365,222 @@ h3 {
         margin-top: 14px;
     }
 }
+
 /* Tural end*/
+
+@media screen and (min-width:992px) and (max-width:1279px) {
+    .cedveller {
+        margin-left: 70px;
+        width: 524.15px;
+        height: 53.86px;
+        font-weight: 700;
+        font-size: 32px;
+        font-family: 'Roboto Slab', serif;
+    }
+
+    .box1 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box2 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box3 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box4 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box5 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box6 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box7 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .box8 {
+        width: 231.09px;
+        height: 189.97px;
+        margin-right: 21px;
+        margin-bottom: 23px;
+    }
+
+    .allboxes img {
+        width: 231.09px;
+        height: 92.67px;
+    }
+
+    .allboxes h3 {
+        width: 211.4px;
+        height: 22.59px;
+        font-size: 17px;
+        margin-left: 11px;
+    }
+
+    .allboxes p {
+        width: 211.4px;
+        height: 36.49px;
+        font-size: 14px;
+        margin: 0;
+        margin-left: 11px;
+        margin-top: 18px;
+    }
+
+    .bozhisse {
+        width: 100%;
+    }
+
+    .bozhisse h2 {
+        width: 571.64px;
+        height: 53.86px;
+        font-size: 32px;
+        margin-left: 70px;
+    }
+
+    .bozunichi {
+        width: 458.12px;
+        height: 261.2px;
+        margin-left: 72px;
+        padding: 0;
+        padding-top: 23px;
+
+    }
+
+    .bozunichi p {
+        width: 405.42px;
+        height: 117.57px;
+        margin-left: 26px;
+        margin-top: 0;
+        font-size: 12px;
+    }
+
+    .portre {
+        width: 110.04px;
+        height: 97.88px;
+        margin-left: 15px;
+    }
+
+    .FB p {
+        width: 204.45px;
+        height: 34.17px;
+        font-size: 17px;
+        margin-top: 28px;
+    }
+
+    .FB img {
+        width: 18.53px;
+        height: 17.95px;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:991px) {
+    .cedveller {
+        width: 421.7px;
+        height: 43.34px;
+        font-size: 26px;
+        margin-left: 34px;
+    }
+
+    .allboxes {
+        display: inline;
+
+    }
+
+    .box1 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box2 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box3 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box4 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box5 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box6 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box7 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .box8 {
+        width: 185.92px;
+        height: 152.84px;
+
+    }
+
+    .allboxes h3 {
+        width: 170.08px;
+        height: 18.17px;
+        font-size: 14px;
+        margin-left: 9px;
+    }
+
+    .allboxes img {
+        width: 185.92px;
+        height: 74.56px;
+    }
+
+    .allboxes p {
+        width: 170.08px;
+        height: 29.36px;
+        font-size: 14px;
+        margin: 0;
+        margin-left: 9px;
+        margin-top: 14px;
+    }
+}
