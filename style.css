@@ -48,13 +48,13 @@ footer {
 
 .contact {
     color: white;
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 25px;
     font-weight: 400;
     line-height: 25px;
     letter-spacing: 0em;
     text-align: left;
-    
+
     margin-left: 30px;
 }
 
@@ -70,7 +70,7 @@ footer {
 
 .copyright {
     color: white;
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 18px;
@@ -88,7 +88,7 @@ footer {
 }
 
 
-.right{
+.right {
     padding-top: 54px;
     margin-right: 122px;
 }
@@ -109,7 +109,7 @@ footer {
 .price {
 
 
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 25px;
     font-weight: 400;
     line-height: 25px;
@@ -144,13 +144,13 @@ footer {
 }
 
 .small-size {
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    
+
 }
 
 .aboute {
@@ -168,12 +168,13 @@ footer {
 }
 
 
-.qiymet-rubl{
-position: relative;
-  bottom: 80px;}
+.qiymet-rubl {
+    position: relative;
+    bottom: 80px;
+}
 
 
-@media screen and (min-width:992px) and (max-width:1279px){
+@media screen and (min-width:992px) and (max-width:1279px) {
     footer {
         height: 225.88px;
         width: 100%;
@@ -181,96 +182,95 @@ position: relative;
         display: flex;
         justify-content: space-between;
     }
-    
+
     .logo_mobile_white {
         width: 66.6px;
         height: 39.38px;
         margin-bottom: 17px;
     }
-    
+
     .ig {
         width: 19.11px;
         height: 19.11px;
         margin-right: 10.43px;
     }
-    
+
     .fb {
         width: 18.53px;
         height: 18.53px;
         margin-right: 12.16px;
     }
-    
+
     .vk {
         width: 20.27px;
         height: 20.27px;
         margin-right: 14.48px;
     }
-    
+
     .wp {
         width: 19.69px;
         height: 19.69px;
     }
-    
+
     .phone_white {
         width: 15.64px;
         height: 15.64px;
     }
-    
+
     .mail_white {
         width: 15.64px;
         height: 10.43px;
     }
-    
+
     .contact {
         color: white;
-        font-family: 'Roboto',sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 14px;
         font-weight: 400;
         line-height: 14.19px;
         letter-spacing: 0em;
         text-align: left;
-        
+
         margin-left: 12.74px;
     }
-    
+
     .mail {
         display: flex;
         align-items: center;
     }
-    
+
     .phone {
         display: flex;
         align-items: center;
     }
-    
+
     .copyright {
         color: white;
-        font-family: 'Roboto',sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 10px;
         font-weight: 400;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-        
+
     }
-    
+
     .left {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         padding-top: 28.96px;
         margin-left: 8.5%;
-    
         margin-bottom: 1.6%;
     }
-    
-    .right{
+
+    .right {
         padding-top: 31.28px;
         margin-right: 8.5%;
     }
 }
 
-@media screen and (min-width:992px) and (max-width:1279px){
+@media screen and (min-width:992px) and (max-width:1279px) {
     .date {
         font-family: 'Roboto Slab', sans-serif;
         font-style: normal;
@@ -279,7 +279,7 @@ position: relative;
         line-height: 32.44px;
         margin-bottom: 54px;
     }
-    
+
     .qiymet{
         position: relative;
         bottom: 16px;}
@@ -293,7 +293,7 @@ position: relative;
         letter-spacing: 0em;
         text-align: left;
     }
-    
+
     .price-rubl {
         font-family: 'Roboto', sans-serif;
         font-style: normal;
@@ -310,22 +310,22 @@ position: relative;
         display: flex;
         flex-direction: column;
     }
-    
+
     .frame {
         margin-left: 8.5%;
         margin-top: 84px;
     }
-    
+
     .small-size {
-        font-family: 'Roboto',sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 10px;
         font-weight: 400;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-        
+
     }
-    
+
     .aboute {
         display: flex;
         width: 381px;
@@ -334,7 +334,7 @@ position: relative;
         position: relative;
         bottom: 70px;
     }
-    
+
     .about {
         width: 171px;
         height: 64px;
@@ -675,7 +675,6 @@ h1 {
         font-size: 46px;
         margin-top: 8px;
     }
-
     .img-1 {
         width: 176.07px;
         height: 206.18px;
@@ -819,6 +818,7 @@ h3 {
 .image-7{
     z-index: -1;
 }
+
 .image-5 {
     width: 366px;
     height: 59px;
@@ -862,50 +862,62 @@ h3 {
         font-size: 32px;
         margin-top: 100px;
     }
-    .main p{
+
+    .main p {
         width: 375px;
         font-size: 14px;
         margin-top: 40px;
     }
-    .image-4{
+
+    .image-4 {
         width: 181.86px;
-        height: 182.44px; 
+        height: 182.44px;
         margin-top: 110px;
     }
-    .image-5{
+
+    .image-5 {
         width: 211.98px;
         height: 34.17px;
         margin-top: 325px;
         margin-left: -355px;
     }
-    .photo-1{
+
+    .photo-1 {
         width: 134.37px;
         height: 117.57px;
     }
-    .photo-2{
+
+    .photo-2 {
         width: 109.46px;
         height: 18.53px;
     }
-    .image-8{
+
+    .image-8 {
         margin-top: 110px;
         margin-right: -50px;
         margin-left: -415px;
     }
-    h3{
+
+    h3 {
         font-weight: 700;
         font-size: 15px;
     }
-    .one,.two,.three{
+
+    .one,
+    .two,
+    .three {
         width: 86.88px;
         height: 22.59px;
         font-size: 11px;
         margin-top: 25px;
     }
-    .one{
+
+    .one {
         margin-left: 77px;
         margin-right: 55px;
     }
-    .two{
+
+    .two {
         margin-right: 32px;
     }
 }
@@ -964,7 +976,6 @@ h3 {
 /* Mehemmed */
 
 /* Shovgu end*/
-
 
 
 
@@ -1045,7 +1056,6 @@ h3 {
 }
 
 .blok1 {
-
     width: 223px;
     height: 39px;
     margin-left: 100px;
@@ -1691,6 +1701,14 @@ h3 {
         height: 43.34px;
         font-size: 26px;
         margin-left: 34px;
+
+    }
+
+    .merkez {
+        width: 50%;
+        margin: auto;
+
+
     }
 
     .allboxes {
@@ -1766,4 +1784,54 @@ h3 {
         margin-left: 9px;
         margin-top: 14px;
     }
+
+    .bozhisse {
+        width: 100%;
+    }
+
+    .bozhisse h2 {
+        width: 257px;
+        height: 69px;
+        font-size: 26px;
+        margin-left: 26px;
+    }
+
+    .bozunichi {
+        width: 308px;
+        height: 248px;
+        margin-left: 36px;
+        padding: 0;
+        padding-top: 18px;
+
+    }
+
+    .bozunichi p {
+        width: 266px;
+        height: 111.01px;
+        font-size: 12px;
+        margin-left: 27px;
+        margin-top: 0;
+    }
+
+    .portre {
+        width: 80px;
+        height: auto;
+        margin-left: 18px;
+    }
+
+    .FB p {
+        width: 164.49px;
+        height: 32.73px;
+        font-size: 14px;
+    }
+
+    .FB img {
+        width: 14.91px;
+        height: 17.2px;
+    }
+
+    .fotoandfacebook {
+        margin-top: 40px;
+    }
+
 }
