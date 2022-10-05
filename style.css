@@ -76,7 +76,7 @@ footer {
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    
+    margin-bottom: 45px;
 }
 
 .left {
@@ -84,12 +84,13 @@ footer {
     flex-direction: column;
     justify-content: space-between;
     padding-top: 50px;
-    margin-left: 122px;
+    margin-left: 8.5%;
 }
 
 
 .right{
     padding-top: 54px;
+    margin-right: 8.5%;
 
 }
 
@@ -139,7 +140,7 @@ footer {
 }
 
 .frame {
-    margin-left: 122px;
+    margin-left: 8.5%;
     margin-top: 186px;
 }
 
@@ -261,7 +262,6 @@ position: relative;
         padding-top: 28.96px;
         margin-left: 8.5%;
     
-        margin-bottom: 1.6%;
     }
     
     .right{
@@ -864,7 +864,6 @@ margin-bottom: 0;
 width: 662px;
 height: 374px;
 margin-left: 121px;
-=======
 
 
 
