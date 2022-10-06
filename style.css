@@ -8,46 +8,38 @@ footer {
     display: flex;
     justify-content: space-between;
 }
-
 .logo_mobile_white {
     width: 115px;
     height: 68px;
     margin-bottom: 30px;
 }
-
 .ig {
     width: 33px;
     height: 33px;
     margin-right: 18px;
 }
-
 .fb {
     width: 32px;
     height: 32px;
     margin-right: 21px;
 }
-
 .vk {
     width: 35px;
     height: 35px;
     margin-right: 25px;
 }
-
 .wp {
     width: 34px;
     height: 34px;
 }
-
 .phone_white {
     width: 27px;
     height: 27px;
 }
-
 .mail_white {
     width: 27px;
     height: 18px;
 }
-
 .contact {
     color: white;
     font-family: 'Roboto',sans-serif;
@@ -56,20 +48,16 @@ footer {
     line-height: 25px;
     letter-spacing: 0em;
     text-align: left;
-    
     margin-left: 30px;
 }
-
 .mail {
     display: flex;
     align-items: center;
 }
-
 .phone {
     display: flex;
     align-items: center;
 }
-
 .copyright {
     color: white;
     font-family: 'Roboto',sans-serif;
@@ -78,9 +66,7 @@ footer {
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    
 }
-
 .left {
     display: flex;
     flex-direction: column;
@@ -88,29 +74,22 @@ footer {
     padding-top: 50px;
     margin-left: 122px;
 }
-
-
 .right{
     padding-top: 54px;
     margin-right: 122px;
 }
-
 .date {
-    font-family: 'Roboto Slab', sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
     margin-bottom: 54px;
 }
-
 .dev-price {
     font-size: 25px;
 }
-
 .price {
-
-
     font-family: 'Roboto',sans-serif;
     font-size: 25px;
     font-weight: 400;
@@ -118,20 +97,17 @@ footer {
     letter-spacing: 0em;
     text-align: left;
 }
-
 .price-rubl {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 80px;
     line-height: 101.38%;
     margin-bottom: 54px;
 }
-
 .dev-price-rubl {
     font-size: 80px;
 }
-
 .price-and-date {
     height: 780px;
     width: 100%;
@@ -139,12 +115,10 @@ footer {
     display: flex;
     flex-direction: column;
 }
-
 .frame {
     margin-left: 122px;
     margin-top: 186px;
 }
-
 .small-size {
     font-family: 'Roboto',sans-serif;
     font-size: 18px;
@@ -152,9 +126,7 @@ footer {
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    
 }
-
 .aboute {
     display: flex;
     width: 658px;
@@ -163,18 +135,14 @@ footer {
     position: relative;
     bottom: 120px;
 }
-
 .about {
     width: 294px;
     height: 111px;
 }
-
-
 .qiymet-rubl{
-position: relative;
-  bottom: 80px;}
-
-
+  position: relative;
+  bottom: 80px;
+}
 @media screen and (min-width:992px) and (max-width:1279px){
     footer {
         height: 225.88px;
@@ -183,46 +151,38 @@ position: relative;
         display: flex;
         justify-content: space-between;
     }
-    
     .logo_mobile_white {
         width: 66.6px;
         height: 39.38px;
         margin-bottom: 17px;
     }
-    
     .ig {
         width: 19.11px;
         height: 19.11px;
         margin-right: 10.43px;
     }
-    
     .fb {
         width: 18.53px;
         height: 18.53px;
         margin-right: 12.16px;
     }
-    
     .vk {
         width: 20.27px;
         height: 20.27px;
         margin-right: 14.48px;
     }
-    
     .wp {
         width: 19.69px;
         height: 19.69px;
     }
-    
     .phone_white {
         width: 15.64px;
         height: 15.64px;
     }
-    
     .mail_white {
         width: 15.64px;
         height: 10.43px;
     }
-    
     .contact {
         color: white;
         font-family: 'Roboto',sans-serif;
@@ -231,20 +191,16 @@ position: relative;
         line-height: 14.19px;
         letter-spacing: 0em;
         text-align: left;
-        
         margin-left: 12.74px;
     }
-    
     .mail {
         display: flex;
         align-items: center;
     }
-    
     .phone {
         display: flex;
         align-items: center;
     }
-    
     .copyright {
         color: white;
         font-family: 'Roboto',sans-serif;
@@ -253,25 +209,20 @@ position: relative;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-        
     }
-    
     .left {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         padding-top: 28.96px;
         margin-left: 8.5%;
-    
         margin-bottom: 1.6%;
     }
-    
     .right{
         padding-top: 31.28px;
         margin-right: 8.5%;
     }
 }
-
 @media screen and (min-width:992px) and (max-width:1279px){
     .date {
         font-family: 'Roboto Slab', sans-serif;
@@ -281,12 +232,10 @@ position: relative;
         line-height: 32.44px;
         margin-bottom: 54px;
     }
-    
     .qiymet{
         position: relative;
-        bottom: 16px;}
-    
-    
+        bottom: 16px;
+    }
     .price{
         font-family: 'Roboto',sans-serif;
         font-size: 14px;
@@ -295,7 +244,6 @@ position: relative;
         letter-spacing: 0em;
         text-align: left;
     }
-    
     .price-rubl {
         font-family: 'Roboto', sans-serif;
         font-style: normal;
@@ -304,7 +252,6 @@ position: relative;
         line-height: 101.38%;
         margin-bottom: 54px;
     }
-
     .price-and-date {
         height: 451.75px;
         width: 100%;
@@ -312,12 +259,10 @@ position: relative;
         display: flex;
         flex-direction: column;
     }
-    
     .frame {
         margin-left: 8.5%;
         margin-top: 84px;
     }
-    
     .small-size {
         font-family: 'Roboto',sans-serif;
         font-size: 10px;
@@ -325,9 +270,7 @@ position: relative;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-        
     }
-    
     .aboute {
         display: flex;
         width: 381px;
@@ -336,18 +279,15 @@ position: relative;
         position: relative;
         bottom: 70px;
     }
-    
     .about {
         width: 171px;
         height: 64px;
     }
-    
     .qiymet-rubl{
       position: relative;
-      bottom: 60px;}
-
+      bottom: 60px;
+    }
 }
-
 @media screen and (min-width:320px) and (max-width:991px) {
     footer {
         height: 251px;
@@ -357,46 +297,38 @@ position: relative;
         flex-direction: column;
         justify-content: space-between;
     }
-    
     .logo_mobile_white {
         width: 53.59px;
         height: 31.69px;
         margin-bottom: 13.5px;
     }
-    
     .ig {
         width: 15.38px;
         height: 15.38px;
         margin-right: 8.39px;
     }
-    
     .fb {
         width: 18.53px;
         height: 18.53px;
         margin-right: 9.78px;
     }
-    
     .vk {
         width: 16.31px;
         height: 16.31px;
         margin-right: 11.65px;
     }
-    
     .wp {
         width: 15.84px;
         height: 15.84px;
     }
-    
     .phone_white {
         width: 12.58px;
         height: 12.58px;
     }
-    
     .mail_white {
         width: 12.58px;
         height: 8.39px;
-    }
-    
+    } 
     .contact {
         color: white;
         font-family: 'Roboto',sans-serif;
@@ -405,20 +337,16 @@ position: relative;
         line-height: 12.17px;
         letter-spacing: 0em;
         text-align: left;
-
         margin-left: 10.25px;
     }
-    
     .mail {
         display: flex;
         align-items: center;
     }
-    
     .phone {
         display: flex;
         align-items: center;
     }
-    
     .copyright {
         color: white;
         font-family: 'Roboto',sans-serif;
@@ -429,9 +357,7 @@ position: relative;
         text-align: left;
         position:relative;
         top: 120px;
-        
     }
-    
     .left {
         display: flex;
         flex-direction: column;
@@ -439,7 +365,6 @@ position: relative;
         padding-top: 28.96px;
         margin-left: 10.33%;
     }
-    
     .right{
         display: flex;
         flex-direction: column;
@@ -448,9 +373,7 @@ position: relative;
         position:relative;
         bottom: 58px;
     }
-
 }
-
 @media screen and (min-width:320px) and (max-width:991px){
     .date {
         font-family: 'Roboto Slab', sans-serif;
@@ -461,17 +384,13 @@ position: relative;
         Width: 224px;
         Height: 63px;
     }
-    
-    
     .price{
         font-family: 'Roboto',sans-serif;
         font-size: 12px;
         font-weight: 400;
         line-height: 12.17px;
         text-align: left;
-        
     }
-    
     .price-rubl {
         font-family: 'Roboto', sans-serif;
         font-style: normal;
@@ -479,13 +398,11 @@ position: relative;
         font-size: 37px;
         line-height: 37.51px;
     }
-
     .price-and-date {
         height: 363px;
         width: 100%;
         background-color: #9DC9C8;
     }
-    
     .frame {
         margin-left: 8.5%;
         margin-top: 62px;
@@ -494,7 +411,6 @@ position: relative;
         flex-direction: column;
         justify-content: space-between;
     }
-    
     .small-size {
         font-family: 'Roboto',sans-serif;
         font-size: 10px;
@@ -502,31 +418,23 @@ position: relative;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-        
     }
-    
     .qiymet{
         position:relative;
         bottom: 32px;
     }
-
     .aboute {
         display: flex;
         width: 311px;
         height: 66px;
         justify-content: space-between;
     }
-    
     .about {
         width: 140px;
         height: 66px;
     }
-    
-
 }
 /* Murad end */
-
-
 
 
 /* Shovgu */
@@ -535,51 +443,42 @@ position: relative;
     margin-top: 20px;
     margin-right: 240px;
 }
-
 .ilk {
     width: 112px;
     height: 66px;
 }
-
 .logo {
     display: flex;
     margin-top: 97px;
 }
-
 .logo p {
     font-size: 20px;
     width: 130px;
     height: 32px;
     font-weight: 400;
+    font-family: 'Roboto',sans-serif;
 }
-
-.globe,
-.watch,
-.calendar {
+.globe,.watch,.calendar {
     display: flex;
 }
-
 .image-1 {
     width: 22px;
     height: 21px;
     margin-top: 11%;
     margin-right: 5%;
 }
-
 .image-2 {
     width: 22px;
     height: 22px;
     margin-top: 11%;
     margin-right: 5%;
 }
-
 .image-3 {
     width: 20px;
     height: 22px;
     margin-top: 11%;
     margin-right: 5%;
 }
-
 h1 {
     width: 628px;
     height: 190px;
@@ -587,35 +486,31 @@ h1 {
     font-size: 80px;
     margin-top: 29px;
     margin-bottom: -10px;
+    font-family: 'Roboto Slab',sans-serif;
 }
-
 .img-1 {
     width: 304px;
     height: 356px;
     margin-left: 140px;
 }
-
 .img-2 {
     width: 274px;
     height: 41px;
     margin-left: -270px;
     margin-top: 335px;
 }
-
 .img-3 {
     z-index: -1;
 }
-
 .text p {
     width: 370px;
     height: 62px;
     font-size: 20px;
+    font-family: 'Roboto',sans-serif;
 }
-
 .second-part {
     display: flex;
 }
-
 .third-part {
     background-color: #1E4681;
     color: white;
@@ -625,7 +520,6 @@ h1 {
     margin-left: 300px;
     margin-top: 60px;
 }
-
 .third-part p {
     width: 400px;
     height: 113px;
@@ -634,59 +528,51 @@ h1 {
     line-height: 130%;
     padding-top: 20px;
     padding-left: 25px;
+    font-family: 'Roboto Slab',sans-serif;
 }
-
 .name {
     margin-top: -30px;
     margin-right: 19px;
     margin-left: 220px;
+    font-family: 'Roboto',sans-serif;
 }
-
 @media screen and (min-width:992px) and (max-width:1279px) {
     .ilk {
         width: 64.87px;
         height: 38.23px;
     }
-
     .logo {
         margin-top: 60px;
     }
-
     .logo p {
         width: 75.29px;
         height: 18.53px;
         font-weight: 400;
         font-size: 12px;
     }
-
     .image-1 {
         width: 12.74px;
         height: 12.16px;
     }
-
     .image-2 {
         width: 12.74px;
         height: 12.74px;
     }
-
     .image-3 {
         width: 11.58px;
         height: 12.74px;
     }
-
     h1 {
         width: 363.72px;
         height: 110.04px;
         font-size: 46px;
         margin-top: 8px;
     }
-
     .img-1 {
         width: 176.07px;
         height: 206.18px;
         margin-left: 80px;
     }
-
     .img-2 {
         width: 158.69px;
         height: 23.75px;
@@ -787,52 +673,43 @@ h1 {
         margin-top: -15px;
     }
 }
-
 .section-2 {
     margin-left: 120px;
     margin-top: 20px;
-    font-family: 'Roboto', sans-serif;
 }
-
 .main h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     font-weight: 700;
     font-size: 55px;
 }
-
 .main p {
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-weight: 400;
     font-size: 24px;
     width: 600px;
 }
-
 .image {
     margin-top: 5%;
     position: relative;
 }
-
 .first {
     display: flex;
     justify-content: space-between;
     margin-bottom: 5%;
 }
-
 .second {
     display: flex;
     font-size: 15px;
 }
-
 h3 {
     font-size: 24px;
+    font-family: 'Roboto',sans-serif;
 }
-
 .image-6 {
     margin-right: 200px;
     width: 232px;
     height: 203px;
 }
-
 .image-8 {
     width: 189px;
     height: 32px;
@@ -849,37 +726,30 @@ h3 {
     margin-left: -570px;
     margin-top: 490px;
 }
-
 .image-4 {
     width: 314px;
     height: 315px;
     margin-left: 50px;
     margin-top: 130px;
 }
-
-.one,
-.two,
-.three {
+.one,.two,.three {
     width: 150px;
     height: 39px;
     font-weight: 400;
     font-size: 18px;
+    font-family: 'Roboto',sans-serif;
 }
-
 .one {
     margin-right: 95px;
     margin-left: 132px;
 }
-
 .two {
     margin-right: 95px;
 }
-
 h3 {
     font-weight: 700;
     font-size: 25px;
 }
-  
 @media screen and (min-width:992px) and (max-width:1279px){
     .main h1{
         width: 211.4px;
@@ -981,136 +851,111 @@ h3 {
     }
     .two{
         margin-right: 33px;
-    }
-    
+    } 
 }
-
 /* Shovgu end*/
-
-
 
 
 /* Mehemmed start*/
 .red1 {
-
     width: 667px;
     height: 93px;
     margin-left: 100px;
-    font-family: 'Roboto Slab';
+    font-family: 'Roboto Slab',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
     color: #000000;
 }
-
 .head1 {
-
     width: 150px;
     height: 39px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
     color: #1E4681;
 }
-
 .head2 {
-
     width: 214px;
     height: 39px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
     color: #1E4681;
-
 }
-
 .head3 {
-
     width: 150px;
     height: 39px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
     color: #1E4681;
-
 }
-
 .blok1 {
-
     width: 223px;
     height: 39px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
     color: #000000;
-
 }
-
 .blok2 {
-
     width: 271px;
     height: 109px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
     color: #000000;
 }
-
 .blok3 {
-
     width: 245px;
     height: 39px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
     color: #000000;
 }
-
 .bas1 {
-
     width: 667px;
     height: 93px;
     margin-left: 100px;
-    font-family: 'Roboto Slab';
+    font-family: 'Roboto Slab',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
     color: #000000;
 }
-
 .bas2 {
-
     width: 662px;
     height: 374px;
     margin-left: 100px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 150%;
     color: #000000;
 }
-
 .flex {
     display: flex;
 }
@@ -1119,33 +964,27 @@ h3 {
         width: 386.3px;
         height: 53.86px;
         margin-left: 70.08px;
-        font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
         line-height: 101.38%;
         color: #000000;
     }
-    
     .head1{
-    
         width: 86.88px;
         height: 22.59px;
         margin-left: 70.66px;
         margin-right: 46px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 15px;
         line-height: 130%;
         color: #1E4681;
-    
     }
     .blok1{
         width: 153px;
         height: 22px;
-        margin-left: 71px;   
-        font-family: 'Roboto';
+        margin-left: 71px;
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
@@ -1154,11 +993,9 @@ h3 {
         margin-right: 46px;
     }
     .head2{
-
         width: 123.94px;
         height: 22.59px;
         margin-right: 50,87;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 15px;
@@ -1166,34 +1003,27 @@ h3 {
         color: #1E4681;
     }
     .blok2{
-    
         width: 172px;
         height: 63px;
         margin-right: 50,87;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
         color: #000000;
     }
-    
     .head3{
         width: 86.88px;
         height: 22.59px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 15px;
         line-height: 130%;
         color: #1E4681;
     }
-    
     .blok3{
-    
         width: 141.9px;
         height: 22.59px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
@@ -1203,184 +1033,121 @@ h3 {
     .bas1{
         width: 386.3px;
         height: 53.86px;
-        margin-left: 70.08px;  
-        font-family: 'Roboto Slab';
+        margin-left: 70.08px;
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
         line-height: 101.38%;
         color: #000000;
     }
-    
     .bas2{
         width: 383.41px;
         height: 216.61px;
         margin-left: 79.92px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 150%;
         color: #000000;
     }
-    
-    }
-    @media screen and (min-width:320px) and (max-width:991px){
+ }
+@media screen and (min-width:320px) and (max-width:991px){
     .red1{
-    
         width: 310.8px;
-    height: 43.34px;
-    margin-left: 36px;
-    
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 101.38%;
-    /* or 26px */
-    color: #000000;
-    
+        height: 43.34px;
+        margin-left: 36px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+        color: #000000;
     }
     .head1{
         width: 69.9px;
         height: 18.17px;
         margin-left: 35px;
-     
-        
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
         line-height: 130%;
-        /* or 16px */
         color: #1E4681;
     }
     .head2{
         width: 99.72px;
         height: 18.17px;
         margin-left: 35.38px;
-       
-        
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
         line-height: 130%;
-        /* or 16px */
-        
-        
         color: #1E4681;
-    
-    
     }
     .blok1{
-    
         width: 180px;
         height: 48px;
         margin-left: 35px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 10px;
         line-height: 130%;
-        /* or 13px */
-        
-        
         color: #000000;
-    
     }
     .blok2{
-    
         width: 165px;
         height: 51px;
         margin-left: 35px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 10px;
         line-height: 130%;
-        /* or 13px */
         color: #000000;
-        
-    
     }
     
     .head3{
-    
         width: 69.9px;
         height: 18.17px;
         margin-left: 36px;
-    
-        
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
         line-height: 130%;
-        /* or 16px */
-        
-        
         color: #1E4681;
-        
-    
     }
     .blok3{
         width: 159px;
         height: 31px;
         margin-left: 36px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 10px;
-        line-height: 130%;
-        /* or 13px */    
+        line-height: 130%;  
         color: #000000;
-        
     }
-    
     .flex{
         display: inline;
     }
-    
     .bas1{
         width: 310.8px;
         height: 43.34px;
         margin-left: 36px;
-    
-        
-        font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 101.38%;
-        /* or 26px */
-        
-        
         color: #000000;
-    
-    
     }
     .bas2{
         width: 299px;
         height: 174px;
         margin-left: 44px;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 12px;
         line-height: 150%;
-        /* or 18px */
-        
         color: #000000;
-    
     }
-    
-
-    
-    }
+}
 /* Mahammad end*/
-
-
 
 
 /* Tural start*/
@@ -1390,9 +1157,8 @@ h3 {
     height: 93px;
     font-weight: 700;
     font-size: 55px;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab',sans-serif;
 }
-
 .allboxes {
     justify-content: center;
     width: 89%;
@@ -1409,7 +1175,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box2 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1418,7 +1183,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box3 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1427,7 +1191,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box4 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1436,7 +1199,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box5 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1445,7 +1207,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box6 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1454,7 +1215,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box7 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1463,7 +1223,6 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .box8 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1472,21 +1231,16 @@ h3 {
     width: 399px;
     height: 328px;
 }
-
 .allboxes h3 {
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
-
     margin: 0;
     margin-left: 20px;
 }
-
-
-
 .allboxes p {
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 25px;
@@ -1495,12 +1249,9 @@ h3 {
     margin-top: 32px;
     width: 365px;
 }
-
-
 .box8 p {
     margin-top: 0px;
 }
-
 .bozhisse {
     height: 780px;
     width: 100%;
@@ -1508,7 +1259,6 @@ h3 {
     margin-top: 60px;
     padding-top: 91px;
 }
-
 .bozunichi {
     width: 791px;
     height: 451px;
@@ -1517,56 +1267,48 @@ h3 {
     margin-top: 34px;
     margin-left: 126px;
     padding-top: 40px;
-
 }
-
 .bozhisse h2 {
     width: 987px;
     height: 93px;
-    font-family: 'Roboto Slab';
+    font-family: 'Roboto Slab',sans-serif;
     font-weight: 700;
     font-size: 55px;
     margin: 0;
     margin-left: 121px;
 }
-
 .bozunichi p {
     width: 700px;
     height: 203px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     margin-left: 45px;
 }
-
 .portre {
     width: 190px;
     height: 169px;
     margin-left: 26px;
 }
-
 .fotoandfacebook {
     display: flex;
 }
-
 .FB p {
     width: 353px;
     height: 59px;
-    font-family: 'Roboto Slab';
+    font-family: 'Roboto Slab',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
     margin-left: 30px;
     margin-bottom: 0;
 }
-
 .FB img {
     width: 32px;
     height: 31px;
     margin-left: 30px;
 }
-
 @media screen and (min-width:992px) and (max-width:1279px) {
     .cedveller {
         margin-left: 70px;
@@ -1574,77 +1316,65 @@ h3 {
         height: 53.86px;
         font-weight: 700;
         font-size: 32px;
-        font-family: 'Roboto Slab', serif;
     }
-
     .box1 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box2 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box3 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box4 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box5 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box6 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box7 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .box8 {
         width: 231.09px;
         height: 189.97px;
         margin-right: 21px;
         margin-bottom: 23px;
     }
-
     .allboxes img {
         width: 231.09px;
         height: 92.67px;
     }
-
     .allboxes h3 {
         width: 211.4px;
         height: 22.59px;
         font-size: 17px;
         margin-left: 11px;
     }
-
     .allboxes p {
         width: 211.4px;
         height: 36.49px;
@@ -1653,27 +1383,23 @@ h3 {
         margin-left: 11px;
         margin-top: 18px;
     }
-
     .bozhisse {
         width: 100%;
+        height: 451.75px;
     }
-
     .bozhisse h2 {
         width: 571.64px;
         height: 53.86px;
         font-size: 32px;
         margin-left: 70px;
     }
-
     .bozunichi {
         width: 458.12px;
         height: 261.2px;
         margin-left: 72px;
         padding: 0;
         padding-top: 23px;
-
     }
-
     .bozunichi p {
         width: 405.42px;
         height: 117.57px;
@@ -1681,26 +1407,22 @@ h3 {
         margin-top: 0;
         font-size: 12px;
     }
-
     .portre {
         width: 110.04px;
         height: 97.88px;
         margin-left: 15px;
     }
-
     .FB p {
         width: 204.45px;
         height: 34.17px;
         font-size: 17px;
         margin-top: 28px;
     }
-
     .FB img {
         width: 18.53px;
         height: 17.95px;
     }
 }
-
 @media screen and (min-width:320px) and (max-width:991px) {
     .cedveller {
         width: 421.7px;
@@ -1712,72 +1434,51 @@ h3 {
         width: 60%;
         margin: auto;
     }
-
     .allboxes {
         display: inline;
-
     }
-
     .box1 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box2 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box3 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box4 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box5 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box6 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box7 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .box8 {
         width: 185.92px;
         height: 152.84px;
-
     }
-
     .allboxes h3 {
         width: 170.08px;
         height: 18.17px;
         font-size: 14px;
         margin-left: 9px;
     }
-
     .allboxes img {
         width: 185.92px;
         height: 74.56px;
     }
-
     .allboxes p {
         width: 170.08px;
         height: 29.36px;
@@ -1790,23 +1491,19 @@ h3 {
         width: 100%;
         height: 423px;
     }
-
     .bozhisse h2 {
         width: 257px;
         height: 69px;
         font-size: 26px;
         margin-left: 26px;
     }
-
     .bozunichi {
         width: 308px;
         height: 248px;
         margin-left: 36px;
         padding: 0;
         padding-top: 18px;
-
     }
-
     .bozunichi p {
         width: 266px;
         height: 111.01px;
@@ -1814,27 +1511,22 @@ h3 {
         margin-left: 27px;
         margin-top: 0;
     }
-
     .portre {
         width: 80px;
         height: auto;
         margin-left: 18px;
     }
-
     .FB p {
         width: 164.49px;
         height: 32.73px;
         font-size: 14px;
     }
-
     .FB img {
         width: 14.91px;
         height: 17.2px;
     }
-
     .fotoandfacebook {
         margin-top: 40px;
     }
 }
-
 /* Tural end*/
