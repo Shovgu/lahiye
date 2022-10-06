@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /* Murad start*/
 footer {
     height: 390px;
@@ -48,13 +50,13 @@ footer {
 
 .contact {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 25px;
     font-weight: 400;
     line-height: 25px;
     letter-spacing: 0em;
     text-align: left;
-
+    
     margin-left: 30px;
 }
 
@@ -70,7 +72,7 @@ footer {
 
 .copyright {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 18px;
@@ -88,7 +90,7 @@ footer {
 }
 
 
-.right {
+.right{
     padding-top: 54px;
     margin-right: 122px;
 }
@@ -109,7 +111,7 @@ footer {
 .price {
 
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 25px;
     font-weight: 400;
     line-height: 25px;
@@ -144,13 +146,13 @@ footer {
 }
 
 .small-size {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-
+    
 }
 
 .aboute {
@@ -168,13 +170,12 @@ footer {
 }
 
 
-.qiymet-rubl {
-    position: relative;
-    bottom: 80px;
-}
+.qiymet-rubl{
+position: relative;
+  bottom: 80px;}
 
 
-@media screen and (min-width:992px) and (max-width:1279px) {
+@media screen and (min-width:992px) and (max-width:1279px){
     footer {
         height: 225.88px;
         width: 100%;
@@ -182,95 +183,96 @@ footer {
         display: flex;
         justify-content: space-between;
     }
-
+    
     .logo_mobile_white {
         width: 66.6px;
         height: 39.38px;
         margin-bottom: 17px;
     }
-
+    
     .ig {
         width: 19.11px;
         height: 19.11px;
         margin-right: 10.43px;
     }
-
+    
     .fb {
         width: 18.53px;
         height: 18.53px;
         margin-right: 12.16px;
     }
-
+    
     .vk {
         width: 20.27px;
         height: 20.27px;
         margin-right: 14.48px;
     }
-
+    
     .wp {
         width: 19.69px;
         height: 19.69px;
     }
-
+    
     .phone_white {
         width: 15.64px;
         height: 15.64px;
     }
-
+    
     .mail_white {
         width: 15.64px;
         height: 10.43px;
     }
-
+    
     .contact {
         color: white;
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto',sans-serif;
         font-size: 14px;
         font-weight: 400;
         line-height: 14.19px;
         letter-spacing: 0em;
         text-align: left;
-
+        
         margin-left: 12.74px;
     }
-
+    
     .mail {
         display: flex;
         align-items: center;
     }
-
+    
     .phone {
         display: flex;
         align-items: center;
     }
-
+    
     .copyright {
         color: white;
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto',sans-serif;
         font-size: 10px;
         font-weight: 400;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-
+        
     }
-
+    
     .left {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         padding-top: 28.96px;
         margin-left: 8.5%;
+    
         margin-bottom: 1.6%;
     }
-
-    .right {
+    
+    .right{
         padding-top: 31.28px;
         margin-right: 8.5%;
     }
 }
 
-@media screen and (min-width:992px) and (max-width:1279px) {
+@media screen and (min-width:992px) and (max-width:1279px){
     .date {
         font-family: 'Roboto Slab', sans-serif;
         font-style: normal;
@@ -279,7 +281,7 @@ footer {
         line-height: 32.44px;
         margin-bottom: 54px;
     }
-
+    
     .qiymet{
         position: relative;
         bottom: 16px;}
@@ -293,7 +295,7 @@ footer {
         letter-spacing: 0em;
         text-align: left;
     }
-
+    
     .price-rubl {
         font-family: 'Roboto', sans-serif;
         font-style: normal;
@@ -310,22 +312,22 @@ footer {
         display: flex;
         flex-direction: column;
     }
-
+    
     .frame {
         margin-left: 8.5%;
         margin-top: 84px;
     }
-
+    
     .small-size {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto',sans-serif;
         font-size: 10px;
         font-weight: 400;
         line-height: 10.14px;
         letter-spacing: 0em;
         text-align: left;
-
+        
     }
-
+    
     .aboute {
         display: flex;
         width: 381px;
@@ -334,7 +336,7 @@ footer {
         position: relative;
         bottom: 70px;
     }
-
+    
     .about {
         width: 171px;
         height: 64px;
@@ -521,10 +523,6 @@ footer {
 
 
 /* Shovgu */
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
 .section-1 {
     margin-left: 120px;
     margin-top: 20px;
@@ -675,6 +673,7 @@ h1 {
         font-size: 46px;
         margin-top: 8px;
     }
+
     .img-1 {
         width: 176.07px;
         height: 206.18px;
@@ -687,7 +686,26 @@ h1 {
         margin-top: 195px;
         margin-left: -160px;
     }
-
+    .second-part{
+        justify-content: space-between;
+    }
+    .third-part{
+        width: 280.11px;
+        height: 115.83px;
+        margin-left: 180px;
+    }
+    .third-part p{
+        width: 220.38px;
+        height: 65.45px;
+        font-weight: 400;
+        font-size: 14px;
+        padding-left: 15px;
+        padding-top: 15px;
+    }
+    .name{
+        margin-left: 135px;
+        margin-top: -25px;
+    }
 }
 @media screen and (min-width:320px) and (max-width:991px){
     .section-1{
@@ -818,12 +836,11 @@ h3 {
 .image-7{
     z-index: -1;
 }
-
 .image-5 {
     width: 366px;
     height: 59px;
     margin-left: -570px;
-    margin-top: 550px;
+    margin-top: 490px;
 }
 
 .image-4 {
@@ -862,62 +879,50 @@ h3 {
         font-size: 32px;
         margin-top: 100px;
     }
-
-    .main p {
+    .main p{
         width: 375px;
         font-size: 14px;
         margin-top: 40px;
     }
-
-    .image-4 {
+    .image-4{
         width: 181.86px;
-        height: 182.44px;
-        margin-top: 110px;
+        height: 182.44px; 
+        margin-top: 205px;
     }
-
-    .image-5 {
+    .image-5{
         width: 211.98px;
         height: 34.17px;
-        margin-top: 325px;
-        margin-left: -355px;
+        margin-top: 415px;
+        margin-left: -345px;
     }
-
-    .photo-1 {
+    .photo-1{
         width: 134.37px;
         height: 117.57px;
     }
-
-    .photo-2 {
+    .photo-2{
         width: 109.46px;
         height: 18.53px;
     }
-
-    .image-8 {
+    .image-8{
         margin-top: 110px;
         margin-right: -50px;
         margin-left: -415px;
     }
-
-    h3 {
+    h3{
         font-weight: 700;
         font-size: 15px;
     }
-
-    .one,
-    .two,
-    .three {
+    .one,.two,.three{
         width: 86.88px;
         height: 22.59px;
         font-size: 11px;
         margin-top: 25px;
     }
-
-    .one {
+    .one{
         margin-left: 77px;
         margin-right: 55px;
     }
-
-    .two {
+    .two{
         margin-right: 32px;
     }
 }
@@ -933,7 +938,6 @@ h3 {
     .main p{
         width: 308.47px;
         font-size: 12px;
-        margin-top: 50px;
     }
     .image-4{
         width: 146.32px;
@@ -944,7 +948,7 @@ h3 {
     .image-5{
         width: 170.55px;
         height: 27.49px;
-        margin-top: 0px;
+        margin-top: -5px;
         margin-left: 60px;
     }
     .image-6,.image-8{
@@ -969,11 +973,10 @@ h3 {
         margin-right: 33px;
     }
     .two{
-        margin-right: 0;
+        margin-right: 33px;
     }
     
 }
-/* Mehemmed */
 
 /* Shovgu end*/
 
@@ -986,17 +989,12 @@ h3 {
     width: 667px;
     height: 93px;
     margin-left: 100px;
-
-
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
-    /* or 56px */
-
     color: #000000;
-
 }
 
 .head1 {
@@ -1004,16 +1002,11 @@ h3 {
     width: 150px;
     height: 39px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
-    /* or 32px */
-
-
     color: #1E4681;
 }
 
@@ -1022,16 +1015,11 @@ h3 {
     width: 214px;
     height: 39px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
-    /* or 32px */
-
-
     color: #1E4681;
 
 }
@@ -1041,34 +1029,25 @@ h3 {
     width: 150px;
     height: 39px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 130%;
-    /* or 32px */
-
-
     color: #1E4681;
 
 }
 
 .blok1 {
+
     width: 223px;
     height: 39px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
-    /* or 23px */
-
-
     color: #000000;
 
 }
@@ -1078,16 +1057,11 @@ h3 {
     width: 271px;
     height: 109px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
-    /* or 23px */
-
-
     color: #000000;
 }
 
@@ -1096,16 +1070,11 @@ h3 {
     width: 245px;
     height: 39px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
-    /* or 23px */
-
-
     color: #000000;
 }
 
@@ -1114,16 +1083,11 @@ h3 {
     width: 667px;
     height: 93px;
     margin-left: 100px;
-
-
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
-    /* or 56px */
-
-
     color: #000000;
 }
 
@@ -1132,23 +1096,280 @@ h3 {
     width: 662px;
     height: 374px;
     margin-left: 100px;
-
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 150%;
-    /* or 36px */
-
-
     color: #000000;
-
 }
 
 .flex {
     display: flex;
 }
+@media screen and (min-width:992px) and (max-width:1279px){
+    .red1{
+        width: 386.3px;
+        height: 53.86px;
+        margin-left: 70.08px;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+        color: #000000;
+    }
+    
+    .head1{
+    
+        width: 86.88px;
+        height: 22.59px;
+        margin-left: 70.66px;
+        margin-right: 46px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        color: #1E4681;
+    
+    }
+    .blok1{
+        width: 153px;
+        height: 22px;
+        margin-left: 71px;   
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        color: #000000;
+        margin-right: 46px;
+    }
+    .head2{
+
+        width: 123.94px;
+        height: 22.59px;
+        margin-right: 50,87;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        color: #1E4681;
+    }
+    .blok2{
+    
+        width: 172px;
+        height: 63px;
+        margin-right: 50,87;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        color: #000000;
+    }
+    
+    .head3{
+        width: 86.88px;
+        height: 22.59px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        color: #1E4681;
+    }
+    
+    .blok3{
+    
+        width: 141.9px;
+        height: 22.59px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .bas1{
+        width: 386.3px;
+        height: 53.86px;
+        margin-left: 70.08px;  
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+        color: #000000;
+    }
+    
+    .bas2{
+        width: 383.41px;
+        height: 216.61px;
+        margin-left: 79.92px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 150%;
+        color: #000000;
+    }
+    
+    }
+    @media screen and (min-width:320px) and (max-width:991px){
+    .red1{
+    
+        width: 310.8px;
+    height: 43.34px;
+    margin-left: 36px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    /* or 26px */
+    color: #000000;
+    
+    }
+    .head1{
+        width: 69.9px;
+        height: 18.17px;
+        margin-left: 35px;
+     
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        color: #1E4681;
+    }
+    .head2{
+        width: 99.72px;
+        height: 18.17px;
+        margin-left: 35.38px;
+       
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        
+        
+        color: #1E4681;
+    
+    
+    }
+    .blok1{
+    
+        width: 180px;
+        height: 48px;
+        margin-left: 35px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */
+        
+        
+        color: #000000;
+    
+    }
+    .blok2{
+    
+        width: 165px;
+        height: 51px;
+        margin-left: 35px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */
+        color: #000000;
+        
+    
+    }
+    
+    .head3{
+    
+        width: 69.9px;
+        height: 18.17px;
+        margin-left: 36px;
+    
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        
+        
+        color: #1E4681;
+        
+    
+    }
+    .blok3{
+        width: 159px;
+        height: 31px;
+        margin-left: 36px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */    
+        color: #000000;
+        
+    }
+    
+    .flex{
+        display: inline;
+    }
+    
+    .bas1{
+        width: 310.8px;
+        height: 43.34px;
+        margin-left: 36px;
+    
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+        /* or 26px */
+        
+        
+        color: #000000;
+    
+    
+    }
+    .bas2{
+        width: 299px;
+        height: 174px;
+        margin-left: 44px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        /* or 18px */
+        
+        color: #000000;
+    
+    }
+    
+    
+    }
 /* Mahammad end*/
 
 
@@ -1172,10 +1393,6 @@ h3 {
     justify-content: flex-start;
     flex-wrap: wrap;
 }
-
-
-
-
 .box1 {
     margin-right: 37px;
     margin-bottom: 41px;
@@ -1483,232 +1700,9 @@ h3 {
         font-size: 26px;
         margin-left: 34px;
     }
-
-    .allboxes {
-        display: inline;
-
-    }
-
-    .box1 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box2 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box3 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box4 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box5 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box6 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box7 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .box8 {
-        width: 185.92px;
-        height: 152.84px;
-
-    }
-
-    .allboxes h3 {
-        width: 170.08px;
-        height: 18.17px;
-        font-size: 14px;
-        margin-left: 9px;
-    }
-
-    .allboxes img {
-        width: 185.92px;
-        height: 74.56px;
-    }
-
-    .allboxes p {
-        width: 170.08px;
-        height: 29.36px;
-        font-size: 14px;
-        margin: 0;
-        margin-left: 9px;
-        margin-top: 14px;
-    }
-}
-
-/* Tural end*/
-
-@media screen and (min-width:992px) and (max-width:1279px) {
-    .cedveller {
-        margin-left: 70px;
-        width: 524.15px;
-        height: 53.86px;
-        font-weight: 700;
-        font-size: 32px;
-        font-family: 'Roboto Slab', serif;
-    }
-
-    .box1 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box2 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box3 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box4 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box5 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box6 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box7 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .box8 {
-        width: 231.09px;
-        height: 189.97px;
-        margin-right: 21px;
-        margin-bottom: 23px;
-    }
-
-    .allboxes img {
-        width: 231.09px;
-        height: 92.67px;
-    }
-
-    .allboxes h3 {
-        width: 211.4px;
-        height: 22.59px;
-        font-size: 17px;
-        margin-left: 11px;
-    }
-
-    .allboxes p {
-        width: 211.4px;
-        height: 36.49px;
-        font-size: 14px;
-        margin: 0;
-        margin-left: 11px;
-        margin-top: 18px;
-    }
-
-    .bozhisse {
-        width: 100%;
-    }
-
-    .bozhisse h2 {
-        width: 571.64px;
-        height: 53.86px;
-        font-size: 32px;
-        margin-left: 70px;
-    }
-
-    .bozunichi {
-        width: 458.12px;
-        height: 261.2px;
-        margin-left: 72px;
-        padding: 0;
-        padding-top: 23px;
-
-    }
-
-    .bozunichi p {
-        width: 405.42px;
-        height: 117.57px;
-        margin-left: 26px;
-        margin-top: 0;
-        font-size: 12px;
-    }
-
-    .portre {
-        width: 110.04px;
-        height: 97.88px;
-        margin-left: 15px;
-    }
-
-    .FB p {
-        width: 204.45px;
-        height: 34.17px;
-        font-size: 17px;
-        margin-top: 28px;
-    }
-
-    .FB img {
-        width: 18.53px;
-        height: 17.95px;
-    }
-}
-
-@media screen and (min-width:320px) and (max-width:991px) {
-    .cedveller {
-        width: 421.7px;
-        height: 43.34px;
-        font-size: 26px;
-        margin-left: 34px;
-
-    }
-
-    .merkez {
-        width: 50%;
+    .bloklar{
+        width: 60%;
         margin: auto;
-
-
     }
 
     .allboxes {
@@ -1784,9 +1778,9 @@ h3 {
         margin-left: 9px;
         margin-top: 14px;
     }
-
     .bozhisse {
         width: 100%;
+        height: 423px;
     }
 
     .bozhisse h2 {
@@ -1833,5 +1827,6 @@ h3 {
     .fotoandfacebook {
         margin-top: 40px;
     }
-
 }
+
+/* Tural end*/
