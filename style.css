@@ -428,7 +428,7 @@ position: relative;
         letter-spacing: 0em;
         text-align: left;
         position:relative;
-        top: 100px;
+        top: 120px;
         
     }
     
@@ -438,14 +438,15 @@ position: relative;
         justify-content: space-between;
         padding-top: 28.96px;
         margin-left: 10.33%;
-    
-        margin-bottom: 1.6%;
     }
     
     .right{
         display: flex;
         flex-direction: column;
         margin-left: 10.33%;
+        margin-bottom: 1.6%;
+        position:relative;
+        bottom: 58px;
     }
 
 }
@@ -468,6 +469,7 @@ position: relative;
         font-weight: 400;
         line-height: 12.17px;
         text-align: left;
+        
     }
     
     .price-rubl {
@@ -503,6 +505,11 @@ position: relative;
         
     }
     
+    .qiymet{
+        position:relative;
+        bottom: 32px;
+    }
+
     .aboute {
         display: flex;
         width: 311px;
@@ -1368,6 +1375,7 @@ h3 {
     
     }
     
+
     
     }
 /* Mahammad end*/
