@@ -938,7 +938,6 @@ h3 {
     .main p{
         width: 308.47px;
         font-size: 12px;
-        margin-top: 50px;
     }
     .image-4{
         width: 146.32px;
@@ -974,7 +973,7 @@ h3 {
         margin-right: 33px;
     }
     .two{
-        margin-right: 0;
+        margin-right: 33px;
     }
     
 }
