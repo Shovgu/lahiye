@@ -472,6 +472,7 @@ footer {
     height: 22px;
     margin-top: 11%;
     margin-right: 5%;
+    margin-left: 15px;
 }
 .image-3 {
     width: 20px;
@@ -485,7 +486,6 @@ h1 {
     font-weight: 700;
     font-size: 80px;
     margin-top: 29px;
-    margin-bottom: -10px;
     font-family: 'Roboto Slab',sans-serif;
 }
 .img-1 {
@@ -503,7 +503,7 @@ h1 {
     z-index: -1;
 }
 .text p {
-    width: 370px;
+    width: 420px;
     height: 62px;
     font-size: 20px;
     font-family: 'Roboto',sans-serif;
@@ -531,12 +531,15 @@ h1 {
     font-family: 'Roboto Slab',sans-serif;
 }
 .name {
-    margin-top: -30px;
+    margin-top: -20px;
     margin-right: 19px;
-    margin-left: 220px;
+    margin-left: 185px;
     font-family: 'Roboto',sans-serif;
 }
 @media screen and (min-width:992px) and (max-width:1279px) {
+    .section-1{
+        margin-left: 75px;
+    }
     .ilk {
         width: 64.87px;
         height: 38.23px;
@@ -579,6 +582,11 @@ h1 {
         margin-top: 195px;
         margin-left: -160px;
     }
+    .text p{
+        width: 264px;
+        height: 36px;
+        font-size: 12px;
+    }
     .second-part{
         justify-content: space-between;
     }
@@ -593,11 +601,11 @@ h1 {
         font-weight: 400;
         font-size: 14px;
         padding-left: 15px;
-        padding-top: 15px;
+        padding-top: 12px;
     }
     .name{
-        margin-left: 135px;
-        margin-top: -25px;
+        margin-left: 110px;
+        margin-top: -15px;
     }
 }
 @media screen and (min-width:320px) and (max-width:991px){
@@ -613,7 +621,7 @@ h1 {
         margin-top: 45px;
     }
     .logo p{
-        width: 60.58px;
+        width: 65.58px;
         height: 14.91px;
         font-weight: 400;
         font-size: 10px;
@@ -669,8 +677,8 @@ h1 {
         padding-top: 8px;
     }
     .name{
-        margin-left: 110px;
-        margin-top: -15px;
+        margin-left: 90px;
+        margin-top: -10px;
     }
 }
 .section-2 {
@@ -681,6 +689,7 @@ h1 {
     font-family: 'Roboto Slab',sans-serif;
     font-weight: 700;
     font-size: 55px;
+    height: 120px;
 }
 .main p {
     font-family: 'Roboto',sans-serif;
@@ -689,8 +698,7 @@ h1 {
     width: 600px;
 }
 .image {
-    margin-top: 5%;
-    position: relative;
+    margin-top: 75px;
 }
 .first {
     display: flex;
@@ -751,10 +759,14 @@ h3 {
     font-size: 25px;
 }
 @media screen and (min-width:992px) and (max-width:1279px){
+    .section-2{
+        margin-left: 75px;
+    }
     .main h1{
         width: 211.4px;
         font-size: 32px;
         margin-top: 100px;
+        height: 100px;
     }
     .main p{
         width: 375px;
@@ -764,12 +776,12 @@ h3 {
     .image-4{
         width: 181.86px;
         height: 182.44px; 
-        margin-top: 205px;
+        margin-top: 180px;
     }
     .image-5{
         width: 211.98px;
         height: 34.17px;
-        margin-top: 415px;
+        margin-top: 420px;
         margin-left: -345px;
     }
     .photo-1{
@@ -811,6 +823,7 @@ h3 {
         width: 170.08px;
         font-size: 26px;
         margin-top: 75px;
+        height: 80px;
     }
     .main p{
         width: 308.47px;
@@ -1431,7 +1444,7 @@ h3 {
         margin-left: 34px;
     }
     .bloklar{
-        width: 60%;
+        width: 80%;
         margin: auto;
     }
     .allboxes {
